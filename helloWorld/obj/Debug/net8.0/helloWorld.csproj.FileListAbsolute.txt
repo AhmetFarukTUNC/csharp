@@ -1,0 +1,15 @@
+C:\Users\Monster\Desktop\csharp\helloWorld\bin\Debug\net8.0\helloWorld.exe
+C:\Users\Monster\Desktop\csharp\helloWorld\bin\Debug\net8.0\helloWorld.deps.json
+C:\Users\Monster\Desktop\csharp\helloWorld\bin\Debug\net8.0\helloWorld.runtimeconfig.json
+C:\Users\Monster\Desktop\csharp\helloWorld\bin\Debug\net8.0\helloWorld.dll
+C:\Users\Monster\Desktop\csharp\helloWorld\bin\Debug\net8.0\helloWorld.pdb
+C:\Users\Monster\Desktop\csharp\helloWorld\obj\Debug\net8.0\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\csharp\helloWorld\obj\Debug\net8.0\helloWorld.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\csharp\helloWorld\obj\Debug\net8.0\helloWorld.AssemblyInfo.cs
+C:\Users\Monster\Desktop\csharp\helloWorld\obj\Debug\net8.0\helloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\csharp\helloWorld\obj\Debug\net8.0\helloWorld.sourcelink.json
+C:\Users\Monster\Desktop\csharp\helloWorld\obj\Debug\net8.0\helloWorld.dll
+C:\Users\Monster\Desktop\csharp\helloWorld\obj\Debug\net8.0\refint\helloWorld.dll
+C:\Users\Monster\Desktop\csharp\helloWorld\obj\Debug\net8.0\helloWorld.pdb
+C:\Users\Monster\Desktop\csharp\helloWorld\obj\Debug\net8.0\helloWorld.genruntimeconfig.cache
+C:\Users\Monster\Desktop\csharp\helloWorld\obj\Debug\net8.0\ref\helloWorld.dll

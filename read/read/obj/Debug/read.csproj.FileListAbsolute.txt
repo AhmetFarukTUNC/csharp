@@ -1,0 +1,7 @@
+C:\Users\Monster\Desktop\csharp\read\read\bin\Debug\read.exe.config
+C:\Users\Monster\Desktop\csharp\read\read\bin\Debug\read.exe
+C:\Users\Monster\Desktop\csharp\read\read\bin\Debug\read.pdb
+C:\Users\Monster\Desktop\csharp\read\read\obj\Debug\read.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\csharp\read\read\obj\Debug\read.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\csharp\read\read\obj\Debug\read.exe
+C:\Users\Monster\Desktop\csharp\read\read\obj\Debug\read.pdb

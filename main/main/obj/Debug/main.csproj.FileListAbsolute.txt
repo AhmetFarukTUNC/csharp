@@ -1,0 +1,7 @@
+C:\Users\Monster\Desktop\csharp\main\main\bin\Debug\main.exe.config
+C:\Users\Monster\Desktop\csharp\main\main\bin\Debug\main.exe
+C:\Users\Monster\Desktop\csharp\main\main\bin\Debug\main.pdb
+C:\Users\Monster\Desktop\csharp\main\main\obj\Debug\main.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\csharp\main\main\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\csharp\main\main\obj\Debug\main.exe
+C:\Users\Monster\Desktop\csharp\main\main\obj\Debug\main.pdb
